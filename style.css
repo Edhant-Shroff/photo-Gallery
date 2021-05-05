@@ -1,0 +1,104 @@
+.welcome {
+    width: 1350px;
+    height: 700px;
+}
+
+#menu {
+    list-style: none;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    z-index: 10;
+    text-align: center;
+    margin-left: 50px auto;
+    padding-left: 45%;
+    background-color: black;
+    margin-top: 0;
+}
+
+#link {
+    float: left;
+    padding: 10px;
+    background-color: black;
+}
+
+#anker {
+    text-decoration: none;
+    color: aqua;
+}
+
+#link:hover {
+    background-color: black;
+}
+
+.img1 {
+    width: 20%;
+    height: 30%
+}
+
+.img2 {
+    width: 20%;
+    height: 30%
+}
+
+.carousel-inner {
+    width: 500px;
+    height: 500px;
+}
+
+.img3 {
+    width: 20%;
+    height: 30%
+}
+
+.img4 {
+    width: 20%;
+    height: 30%
+}
+
+.img5 {
+    width: 20%;
+    height: 30%
+}
+
+.img6 {
+    width: 20%;
+    height: 30%
+}
+
+.img7 {
+    width: 20%;
+    height: 30%
+}
+
+.img8 {
+    width: 20%;
+    height: 30%
+}
+
+h2 {
+    font-size: 30px
+}
+
+#grid {
+    text-align: center;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+body {
+    text-align: center;
+}
+
+#myCarousel {
+    text-align: center;
+    background-color: black;
+}
+
+.glyphicon glyphicon-chevron-left {
+    padding-top: 500%;
+}
